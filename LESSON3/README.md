@@ -5,5 +5,5 @@
 - Smooth transitions  
 - Box shadow styling  
 
-<img src="lesson3-screenshot.png" width="100%">
+<img src="lesson3-screenshot.png" width="400">
 ![Screenshot](Lesson3-screenshot.png)
