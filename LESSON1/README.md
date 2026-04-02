@@ -1,0 +1,3 @@
+## 📸 Preview
+![Screenshot](Lesson1-screenshot.png)
+![Webpage interface showing three buttons labeled Click Me, Kumala Adugna, and Juice at the top, followed by a greeting Hello, World and a message expressing gratitude to God for everything He did through Christ. Below are two links labeled Search with Google and Back to Amazon. The main section displays a product listing for Nike Black Running Shoes, with the price 39 dollars in stock highlighted in green, a note about free delivery tomorrow, and two large buttons labeled Add to Cart and Buy Now in yellow and orange. The overall tone is positive and informative, with a clean and organized layout.]
