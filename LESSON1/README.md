@@ -1,4 +1,4 @@
 ## 📸 Preview
 !<p align="center">
-  <img src="lesson1-screenshot.png" width="500">
-</p>
+  <img src="lesson1-screenshot.png" width="100%">
+</p>git 
