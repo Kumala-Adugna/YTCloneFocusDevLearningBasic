@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="Todo.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="navbar">Todo app <span>▼</span></div>
+
+    <div class="container">
+ <header class="main-header">
+    <div class="header-icon-container">
+        <div class="main-checkmark"></div>
+    </div>
+    <h1>To-Do List</h1>
+    <p>Stay organized and productive</p>
+ </header>
+
+        <div class="input-group">
+            <input type="text" id="todoInput" placeholder="Add a new task...">
+            <button id="addBtn">+ Add</button>
+        </div>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <span id="activeCount" class="stat-num blue">0</span>
+                <span class="stat-label">Active</span>
+            </div>
+            <div class="stat-card">
+                <span id="completedCount" class="stat-num green">0</span>
+                <span class="stat-label">Completed</span>
+            </div>
+            <div class="stat-card">
+                <span id="totalCount" class="stat-num">0</span>
+                <span class="stat-label">Total</span>
+            </div>
+        </div>
+
+        <div id="todoList" class="todo-list"></div>
+    </div>
+
+    <script src="Todo.js"></script>
+</body>
+</html>
